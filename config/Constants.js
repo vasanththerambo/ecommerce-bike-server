@@ -1,4 +1,4 @@
-const baseUrl = 'https://52.203.231.248/'
+const baseUrl = 'https://54.82.121.210'
 
 const  Constants = {
     baseUrl
